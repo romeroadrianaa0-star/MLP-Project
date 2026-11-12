@@ -1,0 +1,7 @@
+pair,object,class,factor,condition,A2_correct,A4_correct,A6H_correct,A6H_true_probability,top3,right_wrong_pair
+1,bottle/object2,bottle,distance,near,False,False,True,0.9999583959579468,"bottle: 1.000, diningtable: 0.000, tvmonitor: 0.000",True
+1,bottle/object2,bottle,distance,far,False,False,False,0.0018215213203802705,"diningtable: 0.978, sofa: 0.011, chair: 0.006",True
+2,sofa/object1,sofa,occlusion,none,False,False,True,0.9973661303520203,"sofa: 0.997, chair: 0.003, pottedplant: 0.000",True
+2,sofa/object1,sofa,occlusion,half,False,False,False,0.0034180055372416973,"chair: 0.994, sofa: 0.003, pottedplant: 0.002",True
+3,bus/object2,bus,rotation,0,False,False,True,0.9986441731452942,"bus: 0.999, train: 0.001, car: 0.000",True
+3,bus/object2,bus,rotation,90,False,False,False,0.007483398076146841,"train: 0.585, motorbike: 0.332, bottle: 0.031",True

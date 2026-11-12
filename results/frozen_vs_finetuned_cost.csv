@@ -1,0 +1,4 @@
+stage,seconds,measurement
+Frozen feature extraction,19.377244805451483,Estimated from 512 training crops and flipped views
+Frozen head fitting,1.3137092590332031,Measured over 5 epochs
+A6-H fine-tuning,,Not recorded in this notebook

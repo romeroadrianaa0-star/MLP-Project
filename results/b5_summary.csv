@@ -1,0 +1,13 @@
+evaluation,model,accuracy,n
+B3 rotation 90,A6-H,0.4,10
+B3 rotation 90,A6-H-repaired,0.9,10
+B3 all unique,A6-H,0.6,70
+B3 all unique,A6-H-repaired,0.8,70
+Heldout ordinary,A6-H,0.8,5
+Heldout ordinary,A6-H-repaired,0.8,5
+Heldout challenging,A6-H,0.2,5
+Heldout challenging,A6-H-repaired,0.6,5
+B1,A6-H,0.8800000000000001,50
+B1,A6-H-repaired,0.9200000000000002,50
+VOC test 19 classes,A6-H,0.9209769795484337,8381
+VOC test 19 classes,A6-H-repaired,0.9199599611899806,8381
